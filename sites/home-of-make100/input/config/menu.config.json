@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Scripts",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1596146122387,
+                "label": "Scripts",
+                "title": "Scripts",
+                "type": "external",
+                "target": "_self",
+                "rel": "",
+                "link": "https://make100.cyou/here-will-be-various-scripts-and-commands-i-find-useful.html",
+                "cssClass": "",
+                "items": []
+            }
+        ]
+    }
+]

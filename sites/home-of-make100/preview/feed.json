@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Home-of-make100",
+    "description": "",
+    "home_page_url": "file:///home/marco/Documents/Publii/sites/home-of-make100/preview",
+    "feed_url": "file:///home/marco/Documents/Publii/sites/home-of-make100/preview/feed.json",
+    "user_comment": "",
+    "icon": "file:///home/marco/Documents/Publii/sites/home-of-make100/preview/media/website/IMG-1044-e1565739108749-225x300.jpg",
+    "author": {
+        "name": "make100"
+    },
+    "items": [
+    ]
+}
